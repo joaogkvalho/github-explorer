@@ -3,7 +3,6 @@ import { RepositoryItem } from '../components/RepositoryItem'
 
 import '../styles/repositories.scss'
 
-
 interface Repository {
     name: string
     description: string
@@ -14,7 +13,7 @@ export function RepositoryList(){
     const [repositories, setRepositories] = useState<Repository[]>([])
 
     useEffect(() => {
-        fetch('https://api.github.com/users/joaokvalho/repos')
+        fetch('https://api.github.com/users/joaogkvalho/repos')
             .then(response => response.json())
             .then(data => setRepositories(data))
     }, [])
