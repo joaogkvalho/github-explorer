@@ -1,46 +1,50 @@
-![github-explorer](https://user-images.githubusercontent.com/50122135/133447639-16323e34-27eb-456c-b29a-e5d730fefbba.png)
+<h1 align="center"> github-explorer </h1>
 
-> Status: Finished ✔️
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### It is a simple application to find the repositories of an user on Github
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Some features used on this project
+<br>
 
-<ul>
-  <li>React Hooks</li>
-  <ul>
-    <li>UseState</li>
-    <li>UseEffect</li>
-  </ul>
-  <li>Fetch</li>
-  <li>Styles with sass</li>
-</ul>
+<p align="center">
+  <img alt="projeto do curso discover" src=".github/preview.png" width="100%">
+</p>
 
-## On this project you can see
+## 🚀 Tecnologias
 
-* The repositories names of the user
-* A link to the repositorie on Github
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Technologies used
+- React
+- TypeScript
+- Sass
 
-<table>
-  <tr>
-    <td>React</td>
-    <td>TypeScript</td>
-    <td>Sass</td>
-  </tr>
-  
-  <tr>
-    <td>17.0.2</td>
-    <td>4.3.5</td>
-    <td>6.0.1</td>
-  </tr>
-</table>
+## 🔥 Algumas features neste projeto
 
-## How to run this project
+- React Hooks
+- UseState
+- UseEffect
+- Fetch API
+- Estilização com Sass
 
-1) Clone the repositorie from my Github.
-2) Enter in the project folder on your code editor.
-3) Run the command "yarn" to install all the dependencies used in the project.
-4) Run the command "yarn dev" to run the project on your computer.
-5) Enter in the project URL to see the application.
+## ✨ Neste projeto você pode ver
+
+- Uma lista com os repositórios do usuário pesquisado.
+- Um link que direciona para o repositório listado.
+
+## 💻 Projeto
+
+- Está uma aplicação simples para encontrar os repositórios de um usuário no Github
+
+## ✅ Esse projeto foi criado ao longo do curso Ignite ReactJS da plataforma Rocketseat
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
